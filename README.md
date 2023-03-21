@@ -1,4 +1,4 @@
-## Hello world, I'm Massimo Valeri and I'm a Data Analyst
+## Hello world, I'm Massimo Valeri and I'm a Data Analyst ✌️👨🏻‍💻
 I love maths, stats and chess! 
 
 ![image](https://user-images.githubusercontent.com/117392459/226749982-e6190e33-090f-425e-90a5-6b870b703ac8.png)
@@ -7,7 +7,7 @@ Here some details about my resume:
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/massimo-valeri-227a2a10a/)](https://www.linkedin.com/in/massimo-valeri-227a2a10a/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/kalizi)](https://github.com/GITHUB-art-create/Massimo-Valeri/)
 
-## 📜 Certificate in Data Analytics @ Boolean Tech Academy
+## 📜 Certificate in Data Analytics @ Boolean Careers
 
 ## 🎓 Bachelor in Management Engineering @ Tor Vergata University of Rome
 
